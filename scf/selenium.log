@@ -1,0 +1,91 @@
+2018-07-23 16:24:35 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:24:35 [INFO ] [TestBase] - [after] 
+2018-07-23 16:26:09 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:26:18 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:26:29 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-07-23 16:26:29 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-07-23 16:26:29 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-07-23 16:26:33 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-07-23 16:26:34 [INFO ] [ProductCategory] - [verify_total_number_of_women_products_dispalyed_as] actual product counts are : 7
+2018-07-23 16:26:34 [INFO ] [TestBase] - [after] 
+2018-07-23 16:28:48 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:28:55 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:29:05 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-07-23 16:29:05 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-07-23 16:29:05 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-07-23 16:29:10 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-07-23 16:29:10 [INFO ] [TestBase] - [after] 
+2018-07-23 16:38:16 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:38:24 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:38:34 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
+2018-07-23 16:38:34 [INFO ] [LoginPage] - [clickOnSignInLink] clicked on sign in link...
+2018-07-23 16:38:37 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
+2018-07-23 16:38:37 [INFO ] [LoginPage] - [enterRegistrationEmail] entering registration email..1532344117992@gmail.com
+2018-07-23 16:38:40 [INFO ] [WaitHelper] - [waitForElement] element found...
+2018-07-23 16:38:40 [INFO ] [GenericHelper] - [isDisplayed] element is displayed..[[ChromeDriver: chrome on XP (5a193d48cb94cd9ac9083b368611c9c5)] -> xpath: //*[@id='id_gender1']]
+2018-07-23 16:38:40 [INFO ] [RegistrationPage] - [setMrRadioButton] selecting mr checkbox..
+2018-07-23 16:38:40 [INFO ] [RegistrationPage] - [setFirstName] entering firstName..firstNameone
+2018-07-23 16:38:40 [INFO ] [RegistrationPage] - [setLastname] entering lastname..lastNameone
+2018-07-23 16:38:40 [INFO ] [RegistrationPage] - [setPassword] entering password..password1
+2018-07-23 16:38:41 [INFO ] [RegistrationPage] - [setYourAddressFirstName] entering yourAddressFirstName..addressFirstNameone
+2018-07-23 16:38:41 [INFO ] [RegistrationPage] - [setYourAddressLastName] entering yourAddressLastName..addressLastNameone
+2018-07-23 16:38:42 [INFO ] [RegistrationPage] - [setYourAddressCompany] entering yourAddressCompany..addressCompanyNameone
+2018-07-23 16:38:42 [INFO ] [RegistrationPage] - [setAddress] entering address..address1
+2018-07-23 16:38:42 [INFO ] [RegistrationPage] - [setYourAddressCity] entering yourAddressCity..Bangalore
+2018-07-23 16:38:43 [INFO ] [RegistrationPage] - [setYourAddressState] entering yourAddressState..Alaska
+2018-07-23 16:38:43 [INFO ] [RegistrationPage] - [setYourAddressPostCode] entering yourAddressPostCode..99501
+2018-07-23 16:38:43 [INFO ] [RegistrationPage] - [setMobilePhone] entering mobilePhone..9999999999
+2018-07-23 16:38:43 [INFO ] [RegistrationPage] - [setAddressAlias] entering addressAlias..addressAlias1
+2018-07-23 16:38:43 [INFO ] [RegistrationPage] - [clickRegistration] clicked on registration..[[ChromeDriver: chrome on XP (5a193d48cb94cd9ac9083b368611c9c5)] -> xpath: //*[@id='submitAccount']]
+2018-07-23 16:38:54 [INFO ] [TestBase] - [after] 
+2018-07-23 16:38:54 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:39:00 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:39:10 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
+2018-07-23 16:39:10 [INFO ] [LoginPage] - [clickOnSignInLink] clicked on sign in link...
+2018-07-23 16:39:13 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
+2018-07-23 16:39:13 [INFO ] [LoginPage] - [enterRegistrationEmail] entering registration email..1532344153603@gmail.com
+2018-07-23 16:39:15 [INFO ] [WaitHelper] - [waitForElement] element found...
+2018-07-23 16:39:15 [INFO ] [GenericHelper] - [isDisplayed] element is displayed..[[ChromeDriver: chrome on XP (9f90ff4ee646f0c8e56ac932b9adc382)] -> xpath: //*[@id='id_gender1']]
+2018-07-23 16:39:15 [INFO ] [RegistrationPage] - [setMrRadioButton] selecting mr checkbox..
+2018-07-23 16:39:16 [INFO ] [RegistrationPage] - [setFirstName] entering firstName..firstNametwo
+2018-07-23 16:39:16 [INFO ] [RegistrationPage] - [setLastname] entering lastname..lastNametwo
+2018-07-23 16:39:16 [INFO ] [RegistrationPage] - [setPassword] entering password..password2
+2018-07-23 16:39:17 [INFO ] [RegistrationPage] - [setYourAddressFirstName] entering yourAddressFirstName..addressFirstNametwo
+2018-07-23 16:39:17 [INFO ] [RegistrationPage] - [setYourAddressLastName] entering yourAddressLastName..addressLastNametwo
+2018-07-23 16:39:17 [INFO ] [RegistrationPage] - [setYourAddressCompany] entering yourAddressCompany..addressCompanyNametwo
+2018-07-23 16:39:18 [INFO ] [RegistrationPage] - [setAddress] entering address..address2
+2018-07-23 16:39:18 [INFO ] [RegistrationPage] - [setYourAddressCity] entering yourAddressCity..Bangalore
+2018-07-23 16:39:18 [INFO ] [RegistrationPage] - [setYourAddressState] entering yourAddressState..Alaska
+2018-07-23 16:39:18 [INFO ] [RegistrationPage] - [setYourAddressPostCode] entering yourAddressPostCode..99501
+2018-07-23 16:39:18 [INFO ] [RegistrationPage] - [setMobilePhone] entering mobilePhone..9999999999
+2018-07-23 16:39:18 [INFO ] [RegistrationPage] - [setAddressAlias] entering addressAlias..addressAlias2
+2018-07-23 16:39:19 [INFO ] [RegistrationPage] - [clickRegistration] clicked on registration..[[ChromeDriver: chrome on XP (9f90ff4ee646f0c8e56ac932b9adc382)] -> xpath: //*[@id='submitAccount']]
+2018-07-23 16:39:30 [INFO ] [TestBase] - [after] 
+2018-07-23 16:39:30 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:39:35 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:39:49 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
+2018-07-23 16:39:49 [INFO ] [LoginPage] - [clickOnSignInLink] clicked on sign in link...
+2018-07-23 16:39:52 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....test902@gmail.com
+2018-07-23 16:39:52 [INFO ] [LoginPage] - [enterPassword] entering password....password
+2018-07-23 16:39:53 [INFO ] [LoginPage] - [clickOnSubmitButton] clicking on submit button...
+2018-07-23 16:39:55 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-07-23 16:39:55 [INFO ] [GenericHelper] - [isDisplayed] element is displayed..[[ChromeDriver: chrome on XP (bc0930fb434e3bf4e2dc82f4f5a4ba62)] -> xpath: //*[@id='center_column']/p]
+2018-07-23 16:39:55 [INFO ] [LoginToAutomationPractices] - [login_is_successful] login test is pass
+2018-07-23 16:39:55 [INFO ] [TestBase] - [after] 
+2018-07-23 16:39:55 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:40:01 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:40:11 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-07-23 16:40:11 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-07-23 16:40:11 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-07-23 16:40:15 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-07-23 16:40:15 [INFO ] [TestBase] - [after] 
+2018-07-23 16:40:16 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-07-23 16:40:21 [INFO ] [TestBase] - [before] Chrome
+2018-07-23 16:40:32 [INFO ] [WaitHelper] - [waitForElement] element found...WOMEN
+2018-07-23 16:40:32 [INFO ] [ProductCategory] - [user_click_on_women_navigation_menu] clicking on women menu
+2018-07-23 16:40:32 [INFO ] [HomePage] - [clickOnMenu] clickin on : WOMEN
+2018-07-23 16:40:36 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-07-23 16:40:36 [INFO ] [JavaScriptHelper] - [executeScript] arguments[0].scrollIntoView()
+2018-07-23 16:40:36 [INFO ] [JavaScriptHelper] - [scrollIntoView] [[ChromeDriver: chrome on XP (04bf60b6f744d10057cb0c9d3e2d5002)] -> xpath: //a[contains(text(),'Orange')]/parent::*/preceding-sibling::input[1]]
+2018-07-23 16:40:43 [INFO ] [ProductCategory] - [click_on_orange_color_filter] we are selecting :Orange
+2018-07-23 16:40:43 [INFO ] [TestBase] - [after] 
